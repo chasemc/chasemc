@@ -1,6 +1,5 @@
 [![chasemc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasemc)](https://github.com/anuraghazra/github-readme-stats)
 
-[![chasemc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chasemc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#152](https://github.com/KwanLab/Autometa/issues/152) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
