@@ -1,5 +1,7 @@
 [![chasemc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasemc)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#152](https://github.com/KwanLab/Autometa/issues/152) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 2. ❗️ Opened issue [#167](https://github.com/KwanLab/Autometa/issues/167) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
