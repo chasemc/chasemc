@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/KwanLab/Autometa/issues/5) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. 🗣 Commented on [#170](https://github.com/KwanLab/Autometa/issues/170) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 🗣 Commented on [#170](https://github.com/KwanLab/Autometa/issues/170) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. ❗️ Opened issue [#171](https://github.com/KwanLab/Autometa/issues/171) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. 🗣 Commented on [#170](https://github.com/KwanLab/Autometa/issues/170) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. ❗️ Reopened issue [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+2. ❗️ Closed issue [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+3. 🗣 Commented on [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. ❗️ Opened issue [#173](https://github.com/KwanLab/Autometa/issues/173) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. 🗣 Commented on [#160](https://github.com/KwanLab/Autometa/issues/160) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
