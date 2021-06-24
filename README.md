@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. ❗️ Closed issue [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 🗣 Commented on [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. ❗️ Opened issue [#173](https://github.com/KwanLab/Autometa/issues/173) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. 🗣 Commented on [#160](https://github.com/KwanLab/Autometa/issues/160) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. 💪 Opened PR [#2184](https://github.com/nextflow-io/nextflow/pull/2184) in [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
+2. ❗️ Reopened issue [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+3. ❗️ Closed issue [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. 🗣 Commented on [#165](https://github.com/KwanLab/Autometa/issues/165) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. ❗️ Opened issue [#173](https://github.com/KwanLab/Autometa/issues/173) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
