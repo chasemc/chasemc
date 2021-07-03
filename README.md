@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/KwanLab/Autometa/issues/175) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. ❗️ Opened issue [#175](https://github.com/KwanLab/Autometa/issues/175) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 🗣 Commented on [#174](https://github.com/KwanLab/Autometa/issues/174) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. ❗️ Opened issue [#174](https://github.com/KwanLab/Autometa/issues/174) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. 💪 Opened PR [#808](https://github.com/nf-core/nf-co.re/pull/808) in [nf-core/nf-co.re](https://github.com/nf-core/nf-co.re)
+1. ❗️ Closed issue [#715](https://github.com/lmcinnes/umap/issues/715) in [lmcinnes/umap](https://github.com/lmcinnes/umap)
+2. ❗️ Opened issue [#715](https://github.com/lmcinnes/umap/issues/715) in [lmcinnes/umap](https://github.com/lmcinnes/umap)
+3. ❗️ Opened issue [#177](https://github.com/KwanLab/Autometa/issues/177) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. ❗️ Opened issue [#1151](https://github.com/nf-core/tools/issues/1151) in [nf-core/tools](https://github.com/nf-core/tools)
+5. 🗣 Commented on [#175](https://github.com/KwanLab/Autometa/issues/175) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
