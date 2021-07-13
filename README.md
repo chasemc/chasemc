@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#715](https://github.com/lmcinnes/umap/issues/715) in [lmcinnes/umap](https://github.com/lmcinnes/umap)
-2. ❗️ Opened issue [#715](https://github.com/lmcinnes/umap/issues/715) in [lmcinnes/umap](https://github.com/lmcinnes/umap)
-3. ❗️ Opened issue [#177](https://github.com/KwanLab/Autometa/issues/177) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. ❗️ Opened issue [#1151](https://github.com/nf-core/tools/issues/1151) in [nf-core/tools](https://github.com/nf-core/tools)
-5. 🗣 Commented on [#175](https://github.com/KwanLab/Autometa/issues/175) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. 🗣 Commented on [#7](https://github.com/idbac/maldidb/issues/7) in [idbac/maldidb](https://github.com/idbac/maldidb)
+2. 🗣 Commented on [#7](https://github.com/idbac/maldidb/issues/7) in [idbac/maldidb](https://github.com/idbac/maldidb)
+3. ❗️ Opened issue [#7](https://github.com/idbac/maldidb/issues/7) in [idbac/maldidb](https://github.com/idbac/maldidb)
+4. ❗️ Opened issue [#6](https://github.com/idbac/maldidb/issues/6) in [idbac/maldidb](https://github.com/idbac/maldidb)
+5. ❗️ Opened issue [#5](https://github.com/idbac/maldidb/issues/5) in [idbac/maldidb](https://github.com/idbac/maldidb)
 <!--END_SECTION:activity-->
