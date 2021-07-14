@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/idbac/maldidb/issues/7) in [idbac/maldidb](https://github.com/idbac/maldidb)
-2. 🗣 Commented on [#7](https://github.com/idbac/maldidb/issues/7) in [idbac/maldidb](https://github.com/idbac/maldidb)
-3. ❗️ Opened issue [#7](https://github.com/idbac/maldidb/issues/7) in [idbac/maldidb](https://github.com/idbac/maldidb)
-4. ❗️ Opened issue [#6](https://github.com/idbac/maldidb/issues/6) in [idbac/maldidb](https://github.com/idbac/maldidb)
-5. ❗️ Opened issue [#5](https://github.com/idbac/maldidb/issues/5) in [idbac/maldidb](https://github.com/idbac/maldidb)
+1. 🗣 Commented on [#1199](https://github.com/nf-core/tools/issues/1199) in [nf-core/tools](https://github.com/nf-core/tools)
+2. 🗣 Commented on [#1199](https://github.com/nf-core/tools/issues/1199) in [nf-core/tools](https://github.com/nf-core/tools)
+3. 🗣 Commented on [#1199](https://github.com/nf-core/tools/issues/1199) in [nf-core/tools](https://github.com/nf-core/tools)
+4. 🗣 Commented on [#1151](https://github.com/nf-core/tools/issues/1151) in [nf-core/tools](https://github.com/nf-core/tools)
+5. 🗣 Commented on [#157](https://github.com/KwanLab/Autometa/issues/157) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
