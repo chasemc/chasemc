@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/gamcil/clustermap.js/issues/9) in [gamcil/clustermap.js](https://github.com/gamcil/clustermap.js)
-2. 🗣 Commented on [#9](https://github.com/gamcil/clustermap.js/issues/9) in [gamcil/clustermap.js](https://github.com/gamcil/clustermap.js)
-3. 🗣 Commented on [#141](https://github.com/KwanLab/Autometa/issues/141) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. ❗️ Opened issue [#9](https://github.com/gamcil/clustermap.js/issues/9) in [gamcil/clustermap.js](https://github.com/gamcil/clustermap.js)
-5. 🗣 Commented on [#2](https://github.com/KwanLab/metaBenchmarks/issues/2) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
+1. ❗️ Closed issue [#166](https://github.com/KwanLab/Autometa/issues/166) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+2. 🗣 Commented on [#166](https://github.com/KwanLab/Autometa/issues/166) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+3. ❗️ Closed issue [#150](https://github.com/KwanLab/Autometa/issues/150) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. 🗣 Commented on [#150](https://github.com/KwanLab/Autometa/issues/150) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. 🗣 Commented on [#151](https://github.com/KwanLab/Autometa/issues/151) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
