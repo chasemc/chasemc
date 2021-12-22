@@ -3,8 +3,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#206](https://github.com/KwanLab/Autometa/issues/206) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. 🗣 Commented on [#206](https://github.com/KwanLab/Autometa/issues/206) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 💪 Opened PR [#206](https://github.com/KwanLab/Autometa/pull/206) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. 🗣 Commented on [#203](https://github.com/KwanLab/Autometa/issues/203) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. 🗣 Commented on [#7](https://github.com/KwanLab/metaBenchmarks/issues/7) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
+2. 🗣 Commented on [#212](https://github.com/KwanLab/Autometa/issues/212) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+3. 🗣 Commented on [#212](https://github.com/KwanLab/Autometa/issues/212) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. 🗣 Commented on [#212](https://github.com/KwanLab/Autometa/issues/212) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. 🗣 Commented on [#206](https://github.com/KwanLab/Autometa/issues/206) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
