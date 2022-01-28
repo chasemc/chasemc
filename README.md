@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#937](https://github.com/nf-core/tools/issues/937) in [nf-core/tools](https://github.com/nf-core/tools)
-2. 🗣 Commented on [#937](https://github.com/nf-core/tools/issues/937) in [nf-core/tools](https://github.com/nf-core/tools)
-3. 🗣 Commented on [#226](https://github.com/KwanLab/Autometa/issues/226) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. ❗️ Opened issue [#226](https://github.com/KwanLab/Autometa/issues/226) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. 🗣 Commented on [#225](https://github.com/KwanLab/Autometa/issues/225) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. 🎉 Merged PR [#11](https://github.com/KwanLab/metaBenchmarks/pull/11) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
+2. 💪 Opened PR [#11](https://github.com/KwanLab/metaBenchmarks/pull/11) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
+3. 🎉 Merged PR [#10](https://github.com/KwanLab/metaBenchmarks/pull/10) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
+4. 💪 Opened PR [#10](https://github.com/KwanLab/metaBenchmarks/pull/10) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
+5. 🎉 Merged PR [#8](https://github.com/KwanLab/metaBenchmarks/pull/8) in [KwanLab/metaBenchmarks](https://github.com/KwanLab/metaBenchmarks)
 <!--END_SECTION:activity-->
