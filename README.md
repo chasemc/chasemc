@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#254](https://github.com/KwanLab/Autometa/issues/254) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. 🗣 Commented on [#254](https://github.com/KwanLab/Autometa/issues/254) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 🗣 Commented on [#3514](https://github.com/tidyverse/ggplot2/issues/3514) in [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2)
-4. 💪 Opened PR [#250](https://github.com/KwanLab/Autometa/pull/250) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. ❗️ Opened issue [#76](https://github.com/gamcil/cblaster/issues/76) in [gamcil/cblaster](https://github.com/gamcil/cblaster)
+1. 💪 Opened PR [#264](https://github.com/KwanLab/Autometa/pull/264) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+2. ❗️ Opened issue [#263](https://github.com/KwanLab/Autometa/issues/263) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+3. ❗️ Reopened issue [#205](https://github.com/KwanLab/Autometa/issues/205) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. 🗣 Commented on [#205](https://github.com/KwanLab/Autometa/issues/205) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. 🗣 Commented on [#254](https://github.com/KwanLab/Autometa/issues/254) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
