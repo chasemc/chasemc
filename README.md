@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/KwanLab/Autometa/issues/173) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. 🗣 Commented on [#98](https://github.com/mhausenblas/mkdocs-deploy-gh-pages/issues/98) in [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages)
-3. 🗣 Commented on [#557](https://github.com/soedinglab/MMseqs2/issues/557) in [soedinglab/MMseqs2](https://github.com/soedinglab/MMseqs2)
-4. ❗️ Opened issue [#557](https://github.com/soedinglab/MMseqs2/issues/557) in [soedinglab/MMseqs2](https://github.com/soedinglab/MMseqs2)
-5. 💪 Opened PR [#264](https://github.com/KwanLab/Autometa/pull/264) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. ❗️ Closed issue [#133](https://github.com/chasemc/IDBacApp/issues/133) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
+2. ❗️ Closed issue [#134](https://github.com/chasemc/IDBacApp/issues/134) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
+3. ❗️ Closed issue [#123](https://github.com/chasemc/IDBacApp/issues/123) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
+4. 🎉 Merged PR [#152](https://github.com/chasemc/IDBacApp/pull/152) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
+5. 💪 Opened PR [#152](https://github.com/chasemc/IDBacApp/pull/152) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
 <!--END_SECTION:activity-->
