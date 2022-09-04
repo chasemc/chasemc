@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/chasemc/IDBacApp/issues/153) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-2. 🗣 Commented on [#284](https://github.com/KwanLab/Autometa/issues/284) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 🗣 Commented on [#153](https://github.com/chasemc/IDBacApp/issues/153) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-4. 🗣 Commented on [#153](https://github.com/chasemc/IDBacApp/issues/153) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-5. 🗣 Commented on [#221](https://github.com/seqeralabs/nf-tower/issues/221) in [seqeralabs/nf-tower](https://github.com/seqeralabs/nf-tower)
+1. ❗️ Opened issue [#1](https://github.com/socialgene/crabhash/issues/1) in [socialgene/crabhash](https://github.com/socialgene/crabhash)
+2. 🗣 Commented on [#2](https://github.com/socialgene/sgpy/issues/2) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. ❗️ Opened issue [#2](https://github.com/socialgene/sgpy/issues/2) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 🎉 Merged PR [#1](https://github.com/socialgene/sgpy/pull/1) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+5. 💪 Opened PR [#1](https://github.com/socialgene/sgpy/pull/1) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
