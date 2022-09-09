@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/KwanLab/Autometa/issues/292) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. 💪 Opened PR [#6](https://github.com/socialgene/sgpy/pull/6) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 2. 🗣 Commented on [#292](https://github.com/KwanLab/Autometa/issues/292) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 💪 Opened PR [#292](https://github.com/KwanLab/Autometa/pull/292) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. 🗣 Commented on [#284](https://github.com/KwanLab/Autometa/issues/284) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-5. 🗣 Commented on [#2693](https://github.com/nextflow-io/nextflow/issues/2693) in [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
+3. 🗣 Commented on [#292](https://github.com/KwanLab/Autometa/issues/292) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. 💪 Opened PR [#292](https://github.com/KwanLab/Autometa/pull/292) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. 🗣 Commented on [#284](https://github.com/KwanLab/Autometa/issues/284) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
