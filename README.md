@@ -3,8 +3,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
-2. ❗️ Opened issue [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
-3. 🗣 Commented on [#11](https://github.com/socialgene/sgpy/issues/11) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-4. 🎉 Merged PR [#11](https://github.com/socialgene/sgpy/pull/11) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-5. 💪 Opened PR [#11](https://github.com/socialgene/sgpy/pull/11) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+2. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
+3. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
+4. ❗️ Opened issue [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
+5. 🗣 Commented on [#11](https://github.com/socialgene/sgpy/issues/11) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
