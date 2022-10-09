@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
-2. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
+1. 🗣 Commented on [#332](https://github.com/shenwei356/seqkit/issues/332) in [shenwei356/seqkit](https://github.com/shenwei356/seqkit)
+2. ❗️ Opened issue [#332](https://github.com/shenwei356/seqkit/issues/332) in [shenwei356/seqkit](https://github.com/shenwei356/seqkit)
 3. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
-4. ❗️ Opened issue [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
-5. 🗣 Commented on [#11](https://github.com/socialgene/sgpy/issues/11) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
+5. 🗣 Commented on [#173](https://github.com/ncbi/datasets/issues/173) in [ncbi/datasets](https://github.com/ncbi/datasets)
 <!--END_SECTION:activity-->
