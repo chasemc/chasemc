@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/chasemc/IDBacApp/issues/154) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-2. 🗣 Commented on [#153](https://github.com/chasemc/IDBacApp/issues/153) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-3. 🗣 Commented on [#154](https://github.com/chasemc/IDBacApp/issues/154) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-4. 🗣 Commented on [#14](https://github.com/socialgene/sgpy/issues/14) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-5. 🎉 Merged PR [#14](https://github.com/socialgene/sgpy/pull/14) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+1. 🗣 Commented on [#15](https://github.com/socialgene/sgpy/issues/15) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+2. 🎉 Merged PR [#15](https://github.com/socialgene/sgpy/pull/15) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. 💪 Opened PR [#15](https://github.com/socialgene/sgpy/pull/15) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 💪 Opened PR [#3](https://github.com/socialgene/antismash_gbk_to_table/pull/3) in [socialgene/antismash_gbk_to_table](https://github.com/socialgene/antismash_gbk_to_table)
+5. ❗️ Opened issue [#2](https://github.com/socialgene/antismash_gbk_to_table/issues/2) in [socialgene/antismash_gbk_to_table](https://github.com/socialgene/antismash_gbk_to_table)
 <!--END_SECTION:activity-->
