@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/socialgene/sgpy/issues/15) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-2. 🎉 Merged PR [#15](https://github.com/socialgene/sgpy/pull/15) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-3. 💪 Opened PR [#15](https://github.com/socialgene/sgpy/pull/15) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-4. 💪 Opened PR [#3](https://github.com/socialgene/antismash_gbk_to_table/pull/3) in [socialgene/antismash_gbk_to_table](https://github.com/socialgene/antismash_gbk_to_table)
-5. ❗️ Opened issue [#2](https://github.com/socialgene/antismash_gbk_to_table/issues/2) in [socialgene/antismash_gbk_to_table](https://github.com/socialgene/antismash_gbk_to_table)
+1. 🗣 Commented on [#17](https://github.com/socialgene/sgpy/issues/17) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+2. 🎉 Merged PR [#17](https://github.com/socialgene/sgpy/pull/17) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. 💪 Opened PR [#17](https://github.com/socialgene/sgpy/pull/17) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 🗣 Commented on [#16](https://github.com/socialgene/sgpy/issues/16) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+5. 🎉 Merged PR [#16](https://github.com/socialgene/sgpy/pull/16) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
