@@ -10,4 +10,3 @@
 <!--END_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chasemc&repo=IDB)](https://github.com/anuraghazra/github-readme-stats)
