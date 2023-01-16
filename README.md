@@ -8,3 +8,4 @@
 4. 💪 Opened PR [#21](https://github.com/socialgene/sgpy/pull/21) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 5. 🗣 Commented on [#20](https://github.com/socialgene/sgpy/issues/20) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
