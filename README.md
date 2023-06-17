@@ -2,11 +2,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/v0.0.1) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-2. 🗣 Commented on [#30](https://github.com/socialgene/sgnf/issues/30) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-3. 🎉 Merged PR [#30](https://github.com/socialgene/sgnf/pull/30) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-4. 💪 Opened PR [#30](https://github.com/socialgene/sgnf/pull/30) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-5. ❌ Closed PR [#29](https://github.com/socialgene/sgnf/pull/29) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
+1. 🗣 Commented on [#329](https://github.com/KwanLab/Autometa/issues/329) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+2. 🗣 Commented on [#329](https://github.com/KwanLab/Autometa/issues/329) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+3. 🗣 Commented on [#329](https://github.com/KwanLab/Autometa/issues/329) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+4. 🗣 Commented on [#329](https://github.com/KwanLab/Autometa/issues/329) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+5. 🗣 Commented on [#329](https://github.com/KwanLab/Autometa/issues/329) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
 <!--END_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
 
