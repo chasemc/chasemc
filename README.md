@@ -2,11 +2,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/socialgene/sgnf/pull/90#issuecomment-1847280752) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-2. 🚀 Published release [v0.4.2](https://github.com/socialgene/sgnf/releases/tag/v0.4.2) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-3. 🎉 Merged PR [#90](https://github.com/socialgene/sgnf/pull/90) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-4. 💪 Opened PR [#90](https://github.com/socialgene/sgnf/pull/90) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
-5. 🔒 Closed issue [#89](https://github.com/socialgene/sgnf/issues/89) in [socialgene/sgnf](https://github.com/socialgene/sgnf)
+1. 🗣 Commented on [#80](https://github.com/socialgene/sgpy/pull/80#issuecomment-1866737124) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+2. 🚀 Published release [v0.4.0](https://github.com/socialgene/sgpy/releases/tag/v0.4.0) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. 🎉 Merged PR [#80](https://github.com/socialgene/sgpy/pull/80) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 💪 Opened PR [#80](https://github.com/socialgene/sgpy/pull/80) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+5. 🎉 Merged PR [#79](https://github.com/socialgene/sgpy/pull/79) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
 
