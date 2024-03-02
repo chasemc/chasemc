@@ -2,11 +2,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/socialgene/sgpy/pull/88) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-2. ❌ Closed PR [#87](https://github.com/socialgene/sgpy/pull/87) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-3. 💪 Opened PR [#87](https://github.com/socialgene/sgpy/pull/87) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-4. 💪 Opened PR [#86](https://github.com/socialgene/sgpy/pull/86) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
-5. 🗣 Commented on [#349](https://github.com/KwanLab/Autometa/issues/349#issuecomment-1960404060) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. ❗ Opened issue [#484](https://github.com/neo4j/docker-neo4j/issues/484) in [neo4j/docker-neo4j](https://github.com/neo4j/docker-neo4j)
+2. 🗣 Commented on [#89](https://github.com/socialgene/sgpy/pull/89#issuecomment-1973266171) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. 🚀 Published release [v0.5.1](https://github.com/socialgene/sgpy/releases/tag/v0.5.1) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 🎉 Merged PR [#89](https://github.com/socialgene/sgpy/pull/89) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+5. 🎉 Merged PR [#86](https://github.com/socialgene/sgpy/pull/86) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
 
