@@ -2,11 +2,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#348](https://github.com/KwanLab/Autometa/pull/348) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-2. 🗣 Commented on [#363](https://github.com/KwanLab/Autometa/issues/363#issuecomment-2179030874) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-3. 🗣 Commented on [#363](https://github.com/KwanLab/Autometa/issues/363#issuecomment-2176977161) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
-4. 🗣 Commented on [#162](https://github.com/chasemc/IDBacApp/issues/162#issuecomment-2168864694) in [chasemc/IDBacApp](https://github.com/chasemc/IDBacApp)
-5. 🗣 Commented on [#361](https://github.com/KwanLab/Autometa/pull/361#issuecomment-2168460238) in [KwanLab/Autometa](https://github.com/KwanLab/Autometa)
+1. 🗣 Commented on [#105](https://github.com/socialgene/sgpy/pull/105#issuecomment-2182942338) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+2. 🚀 Published release [v0.6.7](https://github.com/socialgene/sgpy/releases/tag/v0.6.7) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. 🎉 Merged PR [#105](https://github.com/socialgene/sgpy/pull/105) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 🗣 Commented on [#105](https://github.com/socialgene/sgpy/pull/105#issuecomment-2182941741) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+5. 💪 Opened PR [#105](https://github.com/socialgene/sgpy/pull/105) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
 
