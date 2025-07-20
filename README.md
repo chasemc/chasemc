@@ -2,11 +2,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/evoquant/ncbi_asm_summary/pull/5) in [evoquant/ncbi_asm_summary](https://github.com/evoquant/ncbi_asm_summary)
-2. 🎉 Merged PR [#4](https://github.com/evoquant/ncbi_asm_summary/pull/4) in [evoquant/ncbi_asm_summary](https://github.com/evoquant/ncbi_asm_summary)
-3. 🎉 Merged PR [#3](https://github.com/evoquant/ncbi_asm_summary/pull/3) in [evoquant/ncbi_asm_summary](https://github.com/evoquant/ncbi_asm_summary)
-4. 🎉 Merged PR [#2](https://github.com/evoquant/ncbi_asm_summary/pull/2) in [evoquant/ncbi_asm_summary](https://github.com/evoquant/ncbi_asm_summary)
-5. 🎉 Merged PR [#1](https://github.com/evoquant/ncbi_asm_summary/pull/1) in [evoquant/ncbi_asm_summary](https://github.com/evoquant/ncbi_asm_summary)
+1. 🗣 Commented on [#117](https://github.com/socialgene/sgpy/pull/117#issuecomment-3092491402) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+2. 🚀 Published release [v2.0.0](https://github.com/socialgene/sgpy/releases/tag/v2.0.0) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+3. 🎉 Merged PR [#117](https://github.com/socialgene/sgpy/pull/117) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+4. 💪 Opened PR [#117](https://github.com/socialgene/sgpy/pull/117) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
+5. 🎉 Merged PR [#110](https://github.com/socialgene/sgpy/pull/110) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 <!--END_SECTION:activity-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=chasemc)](https://github.com/ryo-ma/github-profile-trophy)
 
