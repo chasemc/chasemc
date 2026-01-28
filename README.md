@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#392](undefined) in [oschwengers/bakta](https://github.com/oschwengers/bakta)
+1. ❗ Opened issue [#1073](https://github.com/soedinglab/MMseqs2/issues/1073) in [soedinglab/MMseqs2](https://github.com/soedinglab/MMseqs2)
 2. 🗣 Commented on [#565](https://github.com/soedinglab/MMseqs2/issues/565#issuecomment-3341878556) in [soedinglab/MMseqs2](https://github.com/soedinglab/MMseqs2)
 3. 🔒 Closed issue [#102](https://github.com/socialgene/sgpy/issues/102) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
 4. 🔒 Closed issue [#85](https://github.com/socialgene/sgpy/issues/85) in [socialgene/sgpy](https://github.com/socialgene/sgpy)
